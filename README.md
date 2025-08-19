@@ -126,10 +126,10 @@
 
 <div align="center">
   <a href="https://github.com/furryhm-mrz/asbot_plugin_furry-API-hy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furryhm-mrz&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furryhm-mrz&repo=asbot_plugin_furry-API-hy&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/furryhm-mrz/asbot_plugin_furry-API-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furryhm-mrz&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furryhm-mrz&repo=asbot_plugin_furry-API-&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
