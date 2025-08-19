@@ -179,16 +179,16 @@
 </div>
 
 <h2 id="许可协议" align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  <img style="vertical-align: middle; position: relative; top: -2px;"/>
   许可协议
 </h2>
 
 <div align="center">
-  <p>本模板采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
+  <p>本人仓库所有项目采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
   
   <p>您可以自由地：</p>
   <ul style="list-style-type: none; padding: 0;">
-    <li>✅ 使用本模板创建个人 GitHub Profile</li>
+    <li>✅ 使用本人仓库内容</li>
     <li>✅ 修改和定制以满足您的需求</li>
     <li>✅ 分发您修改后的版本</li>
   </ul>
@@ -208,6 +208,6 @@
 
 <!-- 页脚 -->
 <p align="center">
-  <i>如果您觉得我的项目对您有帮助，请考虑给一个⭐️支持一下!</i> 
+  <i>如果您觉得我仓库内的项目对您有帮助，请考虑给一个⭐️支持一下!</i> 
 </p>
 <!-- 原作者:https://github.com/zyh3699/awesome-github-readme-profile 感谢zyh3699免费提供使用 -->
